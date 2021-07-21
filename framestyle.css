@@ -85,6 +85,7 @@ a.ui-datepicker-next {
 table#art_list th {
     font-size: 11px;
     font-weight: 600;
+    color: #000;
     border-right: 2px solid #dee2e6;
 }
 table#art_list th:last-child {
