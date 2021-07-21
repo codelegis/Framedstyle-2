@@ -1,0 +1,92 @@
+h1.option_title {
+	font-weight: 400;
+}
+p.description-label {
+	font-size:  13px;
+	font-style: italic;
+}
+label.shipping-select {
+	margin-top: -15px;
+}
+label.adobe_stock_select {
+	margin-top: 14px;
+}
+.wp-core-ui select {
+	width: 100%;
+	padding: 2px;
+}
+.checkbox_container {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top: 1px solid #eee;
+}
+.cgd_section_custom {
+	padding-top:  15px;
+}
+.cgd_add_size {
+	margin-bottom: 10px;
+}
+.cgd_remove {
+	padding-top:  13px;
+	padding-bottom: 13px;
+	font-size: 15px;
+}
+
+/*For the calendar in the Report Page*/
+#ui-datepicker-div {
+	background-color: #fff;
+    width: 17%;
+    padding-top: 0;
+    border: 1px solid #a5a0a0;
+    border-radius: 4px;
+}
+table.ui-datepicker-calendar {
+	width: 100%;
+}
+table.ui-datepicker-calendar tr td {
+	background: #ededed;
+	border: 1px solid #c5c5c5;
+	padding: .5em;
+	text-align: right;
+}
+table.ui-datepicker-calendar tr td a {
+	text-decoration: none;
+	color: #454545;
+    font-weight: 600;
+}
+.ui-datepicker-header a {
+	cursor: pointer;
+}
+a.ui-datepicker-prev {
+	padding-top: 5px;
+    padding-bottom: 8px;
+}
+a.ui-datepicker-next {
+	float: right;
+    padding-top: 5px;
+    padding-bottom: 8px;
+}
+.ui-datepicker-header {
+	background: #e9e9e9;
+    padding: 6px;
+}
+/* End of Calendar Styele */
+.radion_section {
+    padding-left: 0 !important;
+}
+/* Form input style */
+#form_art_input {
+   margin-top: 25px;
+}
+#form_art_input label {
+    font-weight: 400;
+    font-family:  -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+}
+table#art_list th {
+    font-size: 11px;
+    font-weight: 600;
+    border-right: 2px solid #dee2e6;
+}
+table#art_list th:last-child {
+    border-right: none;
+}
